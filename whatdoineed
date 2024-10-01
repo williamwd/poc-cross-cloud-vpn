@@ -1,0 +1,4 @@
+Outputs AWS module:
+x VPC CIDR
+x Public IPs 1 and 2
+x tunnel preshared keys 
